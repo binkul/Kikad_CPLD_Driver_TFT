@@ -1,0 +1,173 @@
+Source:	D:\Jacek\Dokumenty\Kicad\Sterownik CPLD dla TFT LCD\Sterownik CPLD dla TFT LCD.sch
+Date:	20.06.2019 20:41:18
+Tool:	Eeschema (5.1.0)-1
+Component Count:	168
+Ref	Value	Part	Footprint	Description	Vendor
+BT1	3V_bat	Device:Battery_Cell	Jacek:BatteryHolder_CR1220	Single-cell battery	
+C1	100nF	Device:C	Capacitor_SMD:C_0603_1608Metric	Unpolarized capacitor	
+C2	100nF	Device:C	Capacitor_SMD:C_0603_1608Metric	Unpolarized capacitor	
+C3	100nF	Device:C	Capacitor_SMD:C_0603_1608Metric	Unpolarized capacitor	
+C4	100nF	Device:C	Capacitor_SMD:C_0603_1608Metric	Unpolarized capacitor	
+C5	100nF	Device:C	Capacitor_SMD:C_0603_1608Metric	Unpolarized capacitor	
+C6	100nF	Device:C	Capacitor_SMD:C_1206_3216Metric	Unpolarized capacitor	
+C7	100nF	Device:C	Capacitor_SMD:C_1206_3216Metric	Unpolarized capacitor	
+C8	100nF	Device:C	Capacitor_SMD:C_0603_1608Metric	Unpolarized capacitor	
+C9	100nF	Device:C	Capacitor_SMD:C_0603_1608Metric	Unpolarized capacitor	
+C10	100nF	Device:C	Capacitor_SMD:C_0603_1608Metric	Unpolarized capacitor	
+C11	100nF	Device:C	Capacitor_SMD:C_0603_1608Metric	Unpolarized capacitor	
+C12	100nF	Device:C	Capacitor_SMD:C_0603_1608Metric	Unpolarized capacitor	
+C13	100nF	Device:C	Capacitor_SMD:C_0603_1608Metric	Unpolarized capacitor	
+C14	100nF	Device:C	Capacitor_SMD:C_0603_1608Metric	Unpolarized capacitor	
+C15	100nF	Device:C	Capacitor_SMD:C_0603_1608Metric	Unpolarized capacitor	
+C16	100nF	Device:C	Capacitor_SMD:C_0603_1608Metric	Unpolarized capacitor	
+C17	100nF	Device:C	Capacitor_SMD:C_0603_1608Metric	Unpolarized capacitor	
+C18	100nF	Device:C	Capacitor_SMD:C_0603_1608Metric	Unpolarized capacitor	
+C19	100nF	Device:C	Capacitor_SMD:C_0603_1608Metric	Unpolarized capacitor	
+C20	100nF	Device:C	Capacitor_SMD:C_0603_1608Metric	Unpolarized capacitor	
+C21	100nF	Device:C	Capacitor_SMD:C_0603_1608Metric	Unpolarized capacitor	
+C22	100nF	Device:C	Capacitor_SMD:C_0603_1608Metric	Unpolarized capacitor	
+C23	100nF	Device:C	Capacitor_SMD:C_0603_1608Metric	Unpolarized capacitor	
+C24	100nF	Device:C	Capacitor_SMD:C_0603_1608Metric	Unpolarized capacitor	
+C25	100nF	Device:C	Capacitor_SMD:C_0603_1608Metric	Unpolarized capacitor	
+C26	100nF	Device:C	Capacitor_SMD:C_0603_1608Metric	Unpolarized capacitor	
+C27	100nF	Device:C	Capacitor_SMD:C_0603_1608Metric	Unpolarized capacitor	
+C28	100nF	Device:C	Capacitor_SMD:C_0603_1608Metric	Unpolarized capacitor	
+C29	10nF	Device:C	Capacitor_SMD:C_0603_1608Metric	Unpolarized capacitor	
+C30	100nF	Device:C	Capacitor_SMD:C_0603_1608Metric	Unpolarized capacitor	
+C31	220uF	Device:CP	Capacitor_Tantalum_SMD:CP_EIA-7343-40_Kemet-Y_Pad2.25x2.55mm_HandSolder	Polarized capacitor	
+C32	100nF	Device:C	Capacitor_SMD:C_0603_1608Metric	Unpolarized capacitor	
+C33	100nF	Device:C	Capacitor_SMD:C_0603_1608Metric	Unpolarized capacitor	
+C34	100nF	Device:C	Capacitor_SMD:C_0603_1608Metric	Unpolarized capacitor	
+C35	100nF	Device:C	Capacitor_SMD:C_0603_1608Metric	Unpolarized capacitor	
+C36	100nF	Device:C	Capacitor_SMD:C_1206_3216Metric	Unpolarized capacitor	
+C37	100nF	Device:C	Capacitor_SMD:C_1206_3216Metric	Unpolarized capacitor	
+C38	100nF	Device:C	Capacitor_SMD:C_1206_3216Metric	Unpolarized capacitor	
+C39	100nF	Device:C	Capacitor_SMD:C_1206_3216Metric	Unpolarized capacitor	
+C40	100uF	Device:CP	Capacitor_SMD:CP_Elec_6.3x5.9	Polarized capacitor	
+C41	100uF	Device:CP	Capacitor_SMD:CP_Elec_6.3x5.9	Polarized capacitor	
+C42	470uF	Device:CP	Capacitor_THT:CP_Radial_D10.0mm_P5.00mm	Polarized capacitor	
+C43	100nF	Device:C	Capacitor_SMD:C_1206_3216Metric	Unpolarized capacitor	
+C44	100nF	Device:C	Capacitor_SMD:C_1206_3216Metric	Unpolarized capacitor	
+C45	100uF	Device:CP	Capacitor_SMD:CP_Elec_6.3x5.9	Polarized capacitor	
+C46	100uF	Device:CP	Capacitor_SMD:CP_Elec_6.3x5.9	Polarized capacitor	
+C47	100nF	Device:C	Capacitor_SMD:C_1206_3216Metric	Unpolarized capacitor	
+C48	100nF	Device:C	Capacitor_SMD:C_1206_3216Metric	Unpolarized capacitor	
+C49	100nF	Device:C	Capacitor_SMD:C_1206_3216Metric	Unpolarized capacitor	
+C50	100nF	Device:C	Capacitor_SMD:C_1206_3216Metric	Unpolarized capacitor	
+C51	100nF	Device:C	Capacitor_SMD:C_1206_3216Metric	Unpolarized capacitor	
+C52	100nF	Device:C	Capacitor_SMD:C_1206_3216Metric	Unpolarized capacitor	
+C53	100nF	Device:C	Capacitor_SMD:C_1206_3216Metric	Unpolarized capacitor	
+C54	100nF	Device:C	Capacitor_SMD:C_1206_3216Metric	Unpolarized capacitor	
+C55	2n2	Device:C	Capacitor_SMD:C_1206_3216Metric	Unpolarized capacitor	
+C56	CTRIM	Device:CTRIM	Capacitor_SMD:C_Trimmer_Murata_TZW4	Trimmable capacitor	
+C57	100nF	Device:C	Capacitor_SMD:C_0603_1608Metric	Unpolarized capacitor	
+C58	100nF	Device:C	Capacitor_SMD:C_0603_1608Metric	Unpolarized capacitor	
+C59	100nF	Device:C	Capacitor_SMD:C_0603_1608Metric	Unpolarized capacitor	
+C60	100nF	Device:C	Capacitor_SMD:C_0603_1608Metric	Unpolarized capacitor	
+C61	100nF	Device:C	Capacitor_SMD:C_0603_1608Metric	Unpolarized capacitor	
+C62	100nF	Device:C	Capacitor_SMD:C_0603_1608Metric	Unpolarized capacitor	
+C63	10uF	Device:CP	Capacitor_SMD:CP_Elec_4x3	Polarized capacitor	
+C64	100nF	Device:C	Capacitor_SMD:C_0603_1608Metric	Unpolarized capacitor	
+D1	B80R	Diode_Bridge:B80R	Diode_THT:Diode_Bridge_Round_D9.0mm	Single-Phase Bridge Rectifier, 80V Vrms, 1.6A If, WOG-like package	
+D2	1N5819	Device:D	Diode_SMD:D_SOD-123	Diode	
+D3	1N4148	Device:D	Diode_SMD:D_MiniMELF	Diode	
+D4	B120-E3	Diode:B120-E3	Diode_SMD:D_1206_3216Metric	20V 1A Schottky Barrier Rectifier Diode, SMA(DO-214AC)	
+D5	B120-E3	Diode:B120-E3	Diode_SMD:D_1206_3216Metric	20V 1A Schottky Barrier Rectifier Diode, SMA(DO-214AC)	
+D6	B120-E3	Diode:B120-E3	Diode_SMD:D_1206_3216Metric	20V 1A Schottky Barrier Rectifier Diode, SMA(DO-214AC)	
+F1	Fuse	Device:Polyfuse_Small	Fuse:Fuse_1812_4532Metric	Resettable fuse, polymeric positive temperature coefficient, small symbol	
+H1	3,2mm	Mechanical:MountingHole_Pad	MountingHole:MountingHole_3.2mm_M3_Pad	Mounting Hole with connection	
+H2	3,2mm	Mechanical:MountingHole_Pad	MountingHole:MountingHole_3.2mm_M3_Pad	Mounting Hole with connection	
+H3	3,2mm	Mechanical:MountingHole_Pad	MountingHole:MountingHole_3.2mm_M3_Pad	Mounting Hole with connection	
+H4	3,2mm	Mechanical:MountingHole_Pad	MountingHole:MountingHole_3.2mm_M3_Pad	Mounting Hole with connection	
+J1	Conn_01x02	Connector_Generic:Conn_01x02	Jumper:SolderJumper-2_P1.3mm_Open_RoundedPad1.0x1.5mm	Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)	
+J2	Conn_01x02	Connector_Generic:Conn_01x02	Jumper:SolderJumper-2_P1.3mm_Open_RoundedPad1.0x1.5mm	Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)	
+J3	PDI	Connector_Generic:Conn_02x03_Odd_Even	Connector_IDC:IDC-Header_2x03_P2.54mm_Vertical	Generic connector, double row, 02x03, odd/even pin numbering scheme (row 1 odd numbers, row 2 even numbers), script generated (kicad-library-utils/schlib/autogen/connector/)	
+J4	JTAG	Connector_Generic:Conn_02x05_Odd_Even	Connector_IDC:IDC-Header_2x05_P2.54mm_Vertical	Generic connector, double row, 02x05, odd/even pin numbering scheme (row 1 odd numbers, row 2 even numbers), script generated (kicad-library-utils/schlib/autogen/connector/)	
+J5	Conn_01x40	Connector_Generic:Conn_01x40	Connector_FFC-FPC:Hirose_FH12-40S-0.5SH_1x40-1MP_P0.50mm_Horizontal	Generic connector, single row, 01x40, script generated (kicad-library-utils/schlib/autogen/connector/)	
+J6	Micro_SD_Card	Jacek:Micro_SD_Card	Jacek:MCC SDMicro		
+J7	9V AC	Connector:Barrel_Jack_Switch	Jacek:DC_Jack_14mm	DC Barrel Jack with an internal switch	
+J8	9V AC	Connector_Generic:Conn_01x02	Jacek:Zlacze_srubowe_2x_5mm	Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)	
+J9	5V DC	Connector_Generic:Conn_01x02	Jacek:Zlacze_srubowe_2x_5mm	Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)	
+J10	5V select	Connector_Generic:Conn_01x03	Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Vertical	Generic connector, single row, 01x03, script generated (kicad-library-utils/schlib/autogen/connector/)	
+J11	IO_5V	Connector_Generic:Conn_02x11_Odd_Even	Connector_PinHeader_2.54mm:PinHeader_2x11_P2.54mm_Horizontal	Generic connector, double row, 02x11, odd/even pin numbering scheme (row 1 odd numbers, row 2 even numbers), script generated (kicad-library-utils/schlib/autogen/connector/)	
+J13	VGA	Connector:DB15_Female_HighDensity_MountingHoles	Connector_Dsub:DSUB-15-HD_Female_Horizontal_P2.29x1.98mm_EdgePinOffset8.35mm_Housed_MountingHolesOffset10.89mm	15-pin female D-SUB connector, High density (3 columns), Triple Row, Generic, VGA-connector, Mounting Hole	
+J14	RGB_LSB	Connector_Generic:Conn_01x03	Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Vertical	Generic connector, single row, 01x03, script generated (kicad-library-utils/schlib/autogen/connector/)	
+JP11	8583/8593	Device:Jumper_NC_Dual	Jumper:SolderJumper-3_P1.3mm_Open_RoundedPad1.0x1.5mm	Dual jumper, normally closed	
+L1	10uH	Device:L	Inductor_SMD:L_Taiyo-Yuden_NR-40xx	Inductor	
+L2	22uH	Device:L	Inductor_SMD:L_Taiyo-Yuden_NR-40xx	Inductor	
+L3	INDUCTOR	pspice:INDUCTOR	Inductor_SMD:L_0805_2012Metric	Capacitor symbol for simulation only	
+Q1	BSS138	Transistor_FET:BSS138	Package_TO_SOT_SMD:SOT-23	50V Vds, 0.22A Id, N-Channel MOSFET, SOT-23	
+Q2	BSS138	Transistor_FET:BSS138	Package_TO_SOT_SMD:SOT-23	50V Vds, 0.22A Id, N-Channel MOSFET, SOT-23	
+Q3	BSS138	Transistor_FET:BSS138	Package_TO_SOT_SMD:SOT-23	50V Vds, 0.22A Id, N-Channel MOSFET, SOT-23	
+Q4	BSS138	Transistor_FET:BSS138	Package_TO_SOT_SMD:SOT-23	50V Vds, 0.22A Id, N-Channel MOSFET, SOT-23	
+Q5	BSS138	Transistor_FET:BSS138	Package_TO_SOT_SMD:SOT-23	50V Vds, 0.22A Id, N-Channel MOSFET, SOT-23	
+Q6	BSS138	Transistor_FET:BSS138	Package_TO_SOT_SMD:SOT-23	50V Vds, 0.22A Id, N-Channel MOSFET, SOT-23	
+Q7	BSS138	Transistor_FET:BSS138	Package_TO_SOT_SMD:SOT-23	50V Vds, 0.22A Id, N-Channel MOSFET, SOT-23	
+Q8	BSS138	Transistor_FET:BSS138	Package_TO_SOT_SMD:SOT-23	50V Vds, 0.22A Id, N-Channel MOSFET, SOT-23	
+R1	10k	Device:R	Resistor_SMD:R_0603_1608Metric	Resistor	
+R2	10k	Device:R	Resistor_SMD:R_0603_1608Metric	Resistor	
+R3	10k	Device:R	Resistor_SMD:R_0603_1608Metric	Resistor	
+R4	10k	Device:R	Resistor_SMD:R_0603_1608Metric	Resistor	
+R5	10k	Device:R	Resistor_SMD:R_0603_1608Metric	Resistor	
+R6	10k	Device:R	Resistor_SMD:R_0603_1608Metric	Resistor	
+R7	10k	Device:R	Resistor_SMD:R_0603_1608Metric	Resistor	
+R8	10k	Device:R	Resistor_SMD:R_0603_1608Metric	Resistor	
+R9	10k	Device:R	Resistor_SMD:R_0603_1608Metric	Resistor	
+R10	10k	Device:R	Resistor_SMD:R_0603_1608Metric	Resistor	
+R11	10k	Device:R	Resistor_SMD:R_0603_1608Metric	Resistor	
+R12	10k	Device:R	Resistor_SMD:R_0603_1608Metric	Resistor	
+R13	7R5	Device:R	Resistor_SMD:R_1206_3216Metric	Resistor	
+R14	10k	Device:R	Resistor_SMD:R_0603_1608Metric	Resistor	
+R15	4k7	Device:R	Resistor_SMD:R_1206_3216Metric	Resistor	
+R16	7R5	Device:R	Resistor_SMD:R_1206_3216Metric	Resistor	
+R17	1k	Device:R	Resistor_SMD:R_1206_3216Metric	Resistor	
+R18	4k7	Device:R	Resistor_SMD:R_1206_3216Metric	Resistor	
+R19	4k7	Device:R	Resistor_SMD:R_1206_3216Metric	Resistor	
+R20	10k	Device:R	Resistor_SMD:R_1206_3216Metric	Resistor	
+R21	10k	Device:R	Resistor_SMD:R_1206_3216Metric	Resistor	
+R22	10k	Device:R	Resistor_SMD:R_0603_1608Metric	Resistor	
+R23	10k	Device:R	Resistor_SMD:R_0603_1608Metric	Resistor	
+R24	10k	Device:R	Resistor_SMD:R_0603_1608Metric	Resistor	
+R25	10k	Device:R	Resistor_SMD:R_0603_1608Metric	Resistor	
+R26	10k	Device:R	Resistor_SMD:R_0603_1608Metric	Resistor	
+R27	10k	Device:R	Resistor_SMD:R_0603_1608Metric	Resistor	
+R28	10k	Device:R	Resistor_SMD:R_0603_1608Metric	Resistor	
+R29	10k	Device:R	Resistor_SMD:R_0603_1608Metric	Resistor	
+R30	10k	Device:R	Resistor_SMD:R_0603_1608Metric	Resistor	
+R31	10k	Device:R	Resistor_SMD:R_0603_1608Metric	Resistor	
+R32	10k	Device:R	Resistor_SMD:R_0603_1608Metric	Resistor	
+R33	10k	Device:R	Resistor_SMD:R_0603_1608Metric	Resistor	
+R34	10k	Device:R	Resistor_SMD:R_0603_1608Metric	Resistor	
+R35	10k	Device:R	Resistor_SMD:R_0603_1608Metric	Resistor	
+R36	10k	Device:R	Resistor_SMD:R_0603_1608Metric	Resistor	
+R37	10k	Device:R	Resistor_SMD:R_0603_1608Metric	Resistor	
+R38	47	Device:R	Resistor_SMD:R_0805_2012Metric	Resistor	
+R39	47	Device:R	Resistor_SMD:R_0805_2012Metric	Resistor	
+R40	560	Device:R	Resistor_SMD:R_0805_2012Metric	Resistor	
+R41	10k	Device:R	Resistor_SMD:R_0805_2012Metric	Resistor	
+R42	75	Device:R	Resistor_SMD:R_0805_2012Metric	Resistor	
+R43	75	Device:R	Resistor_SMD:R_0805_2012Metric	Resistor	
+R44	75	Device:R	Resistor_SMD:R_0805_2012Metric	Resistor	
+R45	4k7	Device:R	Resistor_SMD:R_1206_3216Metric	Resistor	
+SW1	Reset	Switch:SW_Push	Jacek:MicroSwitch	Push button switch, generic, two pins	
+SW2	IO_3V3_ON/OFF	Switch:SW_DIP_x08	Button_Switch_THT:SW_DIP_SPSTx08_Slide_6.7x21.88mm_W7.62mm_P2.54mm_LowProfile	8x DIP Switch, Single Pole Single Throw (SPST) switch, small symbol	
+U1	XC2C256_VQ100	Jacek:XC2C256_VQ100	Package_QFP:VQFP-100_14x14mm_P0.5mm		
+U2	LM1117-3.3	Regulator_Linear:LM1117-3.3	Package_TO_SOT_SMD:TO-252-2	800mA Low-Dropout Linear Regulator, 3.3V fixed output, TO-220/TO-252/TO-263/SOT-223	
+U3	ATxmega128A1-AU	Sterownik-CPLD-dla-TFT-LCD-rescue:ATxmega128A1-AU-MCU_Microchip_ATmega	Package_QFP:TQFP-100_14x14mm_P0.5mm		
+U4	NAND_Flash_TSOP48	Jacek:NAND_Flash_TSOP48	Package_SO:TSOP-I-48_18.4x12mm_P0.5mm		
+U5	SRAM_1024Kx16bit_TSOP48I	Jacek:SRAM_1024Kx16bit_TSOP48I	Package_SO:TSOP-I-48_18.4x12mm_P0.5mm		
+U6	74AHC1G00	74xGxx:74AHC1G00	Package_TO_SOT_SMD:SOT-23-5	Single NAND Gate, Low-Voltage CMOS	
+U7	SRAM_1024Kx16bit_TSOP48I	Jacek:SRAM_1024Kx16bit_TSOP48I	Package_SO:TSOP-I-48_18.4x12mm_P0.5mm		
+U8	74LS573	74xx:74LS573	Package_SO:SSOP-20_5.3x7.2mm_P0.65mm	8-bit Latch 3-state outputs	
+U9	SRAM_512Kx16bit_TSOP44II	Jacek:SRAM_512Kx16bit_TSOP44II	Package_SO:TSOP-II-44_10.16x18.41mm_P0.8mm		
+U10	74LS573	74xx:74LS573	Package_SO:SSOP-20_5.3x7.2mm_P0.65mm	8-bit Latch 3-state outputs	
+U11	74AHC1G00	74xGxx:74AHC1G00	Package_TO_SOT_SMD:SOT-23-5	Single NAND Gate, Low-Voltage CMOS	
+U12	LM1117-1.8	Regulator_Linear:LM1117-1.8	Package_TO_SOT_SMD:TO-252-2	800mA Low-Dropout Linear Regulator, 1.8V fixed output, TO-220/TO-252/TO-263/SOT-223	
+U13	L7805	Regulator_Linear:L7805	Package_TO_SOT_SMD:TO-263-2	Positive 1.5A 35V Linear Regulator, Fixed Output 5V, TO-220/TO-263/TO-252	
+U14	RT9293	Jacek:RT9293	Package_TO_SOT_SMD:TSOT-23-6		
+U15	MIC2289_MILF8	Jacek:MIC2289_MILF8	Jacek:MLF8		
+U16	PCF8563T	Timer_RTC:PCF8563T	Package_SO:SOIC-8_3.9x4.9mm_P1.27mm	Realtime Clock/Calendar I2C Interface, SOIC-8	
+U17	ADV7123_TQFP48	Jacek:ADV7123_TQFP48	Package_QFP:TQFP-48_7x7mm_P0.5mm		
+X1	IQXO-70	Oscillator:IQXO-70	Oscillator:Oscillator_SMD_IQD_IQXO70-4Pin_7.5x5.0mm	Crystal Clock Oscillator, SMD package 7.5x5.0mm²	
+X2	IQXO-70	Oscillator:IQXO-70	Oscillator:Oscillator_SMD_IQD_IQXO70-4Pin_7.5x5.0mm	Crystal Clock Oscillator, SMD package 7.5x5.0mm²	
+Y1	32768Hz	Device:Crystal	Crystal:Crystal_C26-LF_D2.1mm_L6.5mm_Horizontal	Two pin crystal	

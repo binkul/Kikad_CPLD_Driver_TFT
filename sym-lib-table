@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name Sterownik-CPLD-dla-TFT-LCD-rescue)(type Legacy)(uri "${KIPRJMOD}/Sterownik CPLD dla TFT LCD-rescue.lib")(options "")(descr ""))
+)
