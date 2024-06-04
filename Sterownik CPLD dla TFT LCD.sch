@@ -315,8 +315,6 @@ Wire Wire Line
 	8750 5650 8750 5700
 Wire Wire Line
 	8750 5700 9275 5700
-Text GLabel 8750 2750 0    40   Input ~ 0
-R2
 Text GLabel 8750 2850 0    40   Input ~ 0
 R3
 Text GLabel 8750 2950 0    40   Input ~ 0
@@ -327,8 +325,6 @@ Text GLabel 8750 3150 0    40   Input ~ 0
 R6
 Text GLabel 8750 3250 0    40   Input ~ 0
 R7
-Text GLabel 8750 3550 0    40   Input ~ 0
-G2
 Text GLabel 8750 3650 0    40   Input ~ 0
 G3
 Text GLabel 8750 3750 0    40   Input ~ 0
@@ -339,8 +335,6 @@ Text GLabel 8750 3950 0    40   Input ~ 0
 G6
 Text GLabel 8750 4050 0    40   Input ~ 0
 G7
-Text GLabel 8750 4350 0    40   Input ~ 0
-B2
 Text GLabel 8750 4450 0    40   Input ~ 0
 B3
 Text GLabel 8750 4550 0    40   Input ~ 0
@@ -1991,11 +1985,6 @@ F 3 "" H 9275 2700 50  0001 C CNN
 	1    9275 2700
 	1    0    0    -1  
 $EndComp
-Wire Wire Line
-	8750 2650 8750 2700
-Wire Wire Line
-	8750 2700 9275 2700
-Connection ~ 8750 2650
 $Comp
 L power:GND #PWR026
 U 1 1 5C0EBF11
@@ -2007,11 +1996,6 @@ F 3 "" H 9275 3500 50  0001 C CNN
 	1    9275 3500
 	1    0    0    -1  
 $EndComp
-Wire Wire Line
-	8750 3450 8750 3500
-Wire Wire Line
-	8750 3500 9275 3500
-Connection ~ 8750 3450
 $Comp
 L power:GND #PWR027
 U 1 1 5C0F407F
@@ -2023,42 +2007,37 @@ F 3 "" H 9275 4300 50  0001 C CNN
 	1    9275 4300
 	1    0    0    -1  
 $EndComp
-Wire Wire Line
-	8750 4250 8750 4300
-Wire Wire Line
-	8750 4300 9275 4300
-Connection ~ 8750 4250
-Text GLabel 4125 2925 2    40   Input ~ 0
-R3
-Text GLabel 4125 2825 2    40   Input ~ 0
-R4
-Text GLabel 4125 2725 2    40   Input ~ 0
-R5
-Text GLabel 4125 2625 2    40   Input ~ 0
-R6
-Text GLabel 4125 2525 2    40   Input ~ 0
-R7
-Text GLabel 4125 2425 2    40   Input ~ 0
-G2
-Text GLabel 4125 2325 2    40   Input ~ 0
-G3
-Text GLabel 4125 2225 2    40   Input ~ 0
-G4
-Text GLabel 4125 2125 2    40   Input ~ 0
-G5
-Text GLabel 4125 2025 2    40   Input ~ 0
-G6
-Text GLabel 2125 1925 0    40   Input ~ 0
-G7
-Text GLabel 2125 2025 0    40   Input ~ 0
-B3
-Text GLabel 2125 2125 0    40   Input ~ 0
-B4
-Text GLabel 2125 2225 0    40   Input ~ 0
-B5
-Text GLabel 2125 2325 0    40   Input ~ 0
-B6
 Text GLabel 2125 2425 0    40   Input ~ 0
+R3
+Text GLabel 2125 2325 0    40   Input ~ 0
+R4
+Text GLabel 2125 2225 0    40   Input ~ 0
+R5
+Text GLabel 2125 2125 0    40   Input ~ 0
+R6
+Text GLabel 2125 2025 0    40   Input ~ 0
+R7
+Text GLabel 2125 1925 0    40   Input ~ 0
+G2
+Text GLabel 4125 2025 2    40   Input ~ 0
+G3
+Text GLabel 4125 2125 2    40   Input ~ 0
+G4
+Text GLabel 4125 2225 2    40   Input ~ 0
+G5
+Text GLabel 4125 2325 2    40   Input ~ 0
+G6
+Text GLabel 4125 2425 2    40   Input ~ 0
+G7
+Text GLabel 4125 2525 2    40   Input ~ 0
+B3
+Text GLabel 4125 2625 2    40   Input ~ 0
+B4
+Text GLabel 4125 2725 2    40   Input ~ 0
+B5
+Text GLabel 4125 2825 2    40   Input ~ 0
+B6
+Text GLabel 4125 2925 2    40   Input ~ 0
 B7
 Text GLabel 2125 2525 0    40   Input ~ 0
 PCLK
@@ -4451,4 +4430,25 @@ Connection ~ 16375 9450
 Wire Wire Line
 	16375 11550 16375 11650
 Connection ~ 16375 11550
+Wire Wire Line
+	8750 2650 8750 2750
+Connection ~ 8750 2650
+Wire Wire Line
+	9275 2700 9275 2650
+Wire Wire Line
+	9275 2650 8750 2650
+Connection ~ 8750 3450
+Wire Wire Line
+	9275 3500 9275 3450
+Wire Wire Line
+	9275 3450 8750 3450
+Text GLabel 8750 3550 0    40   Input ~ 0
+G2
+Wire Wire Line
+	8750 4350 8750 4250
+Connection ~ 8750 4250
+Wire Wire Line
+	9275 4300 9275 4250
+Wire Wire Line
+	9275 4250 8750 4250
 $EndSCHEMATC
